@@ -2,12 +2,10 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components/macro';
 
 export const Container = styled.div`
-	position: fixed;
-	top: 0;
-	left: 0;
 	width: 100%;
-	height: 60px;
-	z-index: 99;
+	/* background: red; */
+	position: relative;
+	top: 30px;
 `;
 
 export const Inner = styled.div`

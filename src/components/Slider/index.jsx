@@ -20,8 +20,6 @@ import {
 const Slider = () => {
 	const [view, setView] = useState(0);
 
-	console.log(view);
-
 	const handleClick = (direction) => {
 		if (direction === 'left') {
 			setView(view > 0 ? view - 1 : 3);

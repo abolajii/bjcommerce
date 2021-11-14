@@ -3,9 +3,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 	position: relative;
-	top: 80px;
-	width: 100%;
-	height: calc(100vh);
+	top: 30px;
 	/* background-color: red; */
 `;
 

@@ -20,7 +20,6 @@ import { Announcement } from '../../index';
 const Navbar = () => {
 	return (
 		<Container>
-			<Announcement />
 			<Inner>
 				<Left>
 					<Language>EN</Language>
