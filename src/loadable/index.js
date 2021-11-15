@@ -24,3 +24,9 @@ export const Categories = Loadable({
 	loading: Loader,
 	delay: 100,
 });
+
+export const Products = Loadable({
+	loader: () => import('../components/Products'),
+	loading: Loader,
+	delay: 100,
+});
