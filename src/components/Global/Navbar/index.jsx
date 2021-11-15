@@ -16,7 +16,6 @@ import { Search } from '@material-ui/icons';
 
 import { ShoppingCart } from '@material-ui/icons';
 import Badge from '@mui/material/Badge';
-import { Announcement } from '../../index';
 const Navbar = () => {
 	return (
 		<Container>

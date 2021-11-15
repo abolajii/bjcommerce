@@ -7,6 +7,7 @@ export const ImageContainer = styled.div`
 	margin: 3px;
 	flex-direction: column;
 	position: relative;
+	opacity: 0.9;
 `;
 
 export const Image = styled.img`
@@ -37,10 +38,12 @@ export const Title = styled.p`
 
 export const Button = styled.button`
 	height: 39px;
-	width: 169px;
+	width: 130px;
 	font-weight: 500;
 	font-size: 20px;
 	cursor: pointer;
 	outline: none;
 	border: none;
+	border-radius: 3px;
+	color: grey;
 `;
