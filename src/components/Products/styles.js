@@ -7,5 +7,7 @@ export const Container = styled.div`
 
 export const Inner = styled.div`
 	padding: 20px;
-	display: flex;
+
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
 `;

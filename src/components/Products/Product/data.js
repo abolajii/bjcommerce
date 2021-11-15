@@ -2,7 +2,7 @@ export const products = [
 	{ id: 1, img: 'https://pngimg.com/uploads/jacket/jacket_PNG8058.png' },
 	{
 		id: 2,
-		img: 'https://media.istockphoto.com/photos/male-coat-isolated-on-the-white-picture-id163208487?b=1&k=20&m=163208487&s=170667a&w=0&h=YyOFKwoWyLSVO-cXE3goQ4el6K8Cvs082gjmUSouvOQ=',
+		img: 'https://www.pngall.com/wp-content/uploads/4/Black-Leather-Jacket-PNG-Image.png',
 	},
 	{
 		id: 3,
@@ -10,22 +10,22 @@ export const products = [
 	},
 	{
 		id: 4,
-		img: 'https://cdn.dribbble.com/users/3695363/screenshots/9913676/track_jacket_4x.jpg',
+		img: 'https://www.kindpng.com/picc/m/729-7296793_leather-jacket-png-brown-leather-jacket-png-transparent.png',
 	},
 	{
 		id: 5,
-		img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaDRH37HYjRHb1WSwkxQENmExvETE5TrPSw&usqp=CAU',
+		img: 'https://www.c9m7.com/wp-content/uploads/2017/07/Green-and-Black-Polo.jpg',
 	},
 	{
 		id: 6,
-		img: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/a4ef8863145083.5aa7815b81dd2.jpg',
+		img: 'https://ae01.alicdn.com/kf/H5a27debe0c1a4ba8baa70ad4e543113fN/Own-Design-Logo-Polo-Shirts-Men-3D-Green-Gradient-Print-Tees-Tops-Shirts-Male-Casual-Short.jpg',
 	},
 	{
 		id: 7,
-		img: 'https://st.depositphotos.com/1017986/2626/i/600/depositphotos_26263587-stock-photo-man-in-blank-t-shirt.jpg',
+		img: 'https://i.pinimg.com/474x/cd/d1/83/cdd1839a0fa262cf4f2a476351cb3638.jpg',
 	},
 	{
 		id: 8,
-		img: 'https://assets-global.website-files.com/5bfd6f4468ee7943c2d331dd/5df3523801b6ef46112731a8_001.jpg',
+		img: 'https://www.oasissublimation.com/wp-content/uploads/2020/01/grey-and-black-with-streak-sports-polo-shirt-300x300.jpg',
 	},
 ];
