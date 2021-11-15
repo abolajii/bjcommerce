@@ -30,3 +30,9 @@ export const Products = Loadable({
 	loading: Loader,
 	delay: 100,
 });
+
+export const Newsletter = Loadable({
+	loader: () => import('../components/Newsletter'),
+	loading: Loader,
+	delay: 100,
+});

@@ -28,7 +28,7 @@ const Navbar = () => {
 					</SearchContainer>
 				</Left>
 				<Center>
-					<Logo>Abolaji</Logo>
+					<Logo>KITS.</Logo>
 				</Center>
 				<Right>
 					<SignIn to='/signin'>Sign in</SignIn>

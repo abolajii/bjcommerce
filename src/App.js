@@ -1,5 +1,12 @@
 import React from 'react';
-import { Announcement, Categories, Navbar, Products, Slider } from './loadable';
+import {
+	Announcement,
+	Categories,
+	Navbar,
+	Newsletter,
+	Products,
+	Slider,
+} from './loadable';
 
 const App = () => {
 	return (
@@ -9,6 +16,7 @@ const App = () => {
 			<Slider />
 			<Categories />
 			<Products />
+			<Newsletter />
 		</>
 	);
 };
